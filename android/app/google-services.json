@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092788065466",
+    "project_id": "proyecto-paseando-mascotas1",
+    "storage_bucket": "proyecto-paseando-mascotas1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092788065466:android:8b923c4208f1e11d1a5e83",
+        "android_client_info": {
+          "package_name": "com.example.paseador_mascotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092788065466-ue7s43kuo8152501ji90omndbecm8fk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD98kt2yysBifCfCTTgfX14tNPUuxtheY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092788065466-ue7s43kuo8152501ji90omndbecm8fk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
